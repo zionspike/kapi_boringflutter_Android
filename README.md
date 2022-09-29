@@ -1,4 +1,4 @@
-# kapi_borringflutter_Android
+# kapi_boringflutter_Android
 
 A Python r2pipe script to automatically find the offset of ssl_verify_result function in libflutter.so (currently works only Android 64 bits)
 
